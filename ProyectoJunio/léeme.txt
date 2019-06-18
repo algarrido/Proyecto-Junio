@@ -1,0 +1,3 @@
+** El archivo jar se encuentra en la carpeta dist dentro del proyecto
+** El archivo sql se encuentra en el zip para importarlo
+** La imagen uml se encuentra en el zip
